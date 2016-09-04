@@ -1,4 +1,4 @@
-## The Great CSV Reading Race
+## The Great CSV Reader Race
 
 May the fastest parser win; may the most useful attain glory.
 
