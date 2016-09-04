@@ -2,14 +2,16 @@
 
 May the fastest parser win; may the most useful attain glory.
 
-Rules:
+Contributions are welcome! Just make a pull request.
+
+#### Rules
+
 1. The parsed result must be correct. Correctness is judget by the output from R's `read.csv` which is nothing if not battle tested. If the output is different, the entry is invalidated.
 2. I am the umpire and my computer is the official test machine. It must 
 3. All entries must include instructions to run them, and instructions for installing dependencies. They don't necessarily need to be cross-platform, but they do need to run on El Capitan. See Rule #2.
 
-Contributions are welcome! Just make a pull request.
 
-Todos:
+#### Todos
 - ☐ Adhere to my own rules and add installation/execution instructions for the scripts I have here.
 - ☐ Add a correctness-checking script.
 - ☐ Add a versioning/naming system for entries.
