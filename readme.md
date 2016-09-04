@@ -30,16 +30,16 @@ The test data set is the famous "iris" data set, repeated 13001 times. This prod
 
 ### Setup
 
-Early 2015 MacBook Pro
-2.7 GHz Intel Core i5 processor
-16 GB 1867 MHz DDR3 RAM
-Mac OS version 10.11.6
+- Early 2015 MacBook Pro
+    - 2.7 GHz Intel Core i5 processor
+    - 16 GB 1867 MHz DDR3 RAM
+    - Mac OS version 10.11.6
 
-R version 3.3.1
-Data.table version 1.9.6
+- R version 3.3.1
+    - data.table version 1.9.6
 
-Python version 3.5.2
-Pandas version 0.18.1
+- Python version 3.5.2
+    - Pandas version 0.18.1
 
 
 ### Results
