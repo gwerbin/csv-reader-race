@@ -12,9 +12,10 @@ Contributions are welcome! Just make a pull request.
 Todos:
 - [] Adhere to my own rules and add installation/execution instructions for the scripts I have here.
 - [] Add a correctness-checking script.
-- [] Come up with a versioning/naming system for entries.
+- [] Add a versioning/naming system for entries.
 - [] Add a script to generate the data.
-- [] Come up with more/better data sets to test against.
+- [] Add more/better data sets to test against.
+- [] Add a fair system for doing multiple runs.
 
 
 ### Method
