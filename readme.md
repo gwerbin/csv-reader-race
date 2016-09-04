@@ -43,6 +43,6 @@ Pandas version 0.18.1
 
 
 ### Results
-- R `data.table::fread()`: 1.004 seconds
+- R `data.table::fread()`: 0.978 seconds
 - Python `csv.reader()`: 3.754 seconds
 - Python `pandas.read_csv()`: 1.445 seconds
